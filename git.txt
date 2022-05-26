@@ -6,5 +6,9 @@
 
 # git "commands":
 
-       $git init  -  to initialize a git repository
+       $git init          -  to initialize a empty git repository
+       $ls -a             -  hidden files begins with (.)
+       $ls .git           -  open a repository
+       $touch names.txt   -  creates a names.txt files
+       $git status        -  shows the staus of the git repository
        $
