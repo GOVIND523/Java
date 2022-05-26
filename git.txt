@@ -1,0 +1,10 @@
+# git is a open source version control system 
+
+# It helps to maintain a recoird of changes made to a directory or roll back changes to a certain commit.
+
+# git has a gui interface and a bash line terminal 
+
+# git "commands":
+
+       $git init  -  to initialize a git repository
+       $
