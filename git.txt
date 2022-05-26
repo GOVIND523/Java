@@ -11,4 +11,8 @@
        $ls .git           -  open a repository
        $touch names.txt   -  creates a names.txt files
        $git status        -  shows the staus of the git repository
-       $
+       $git add .         -  staging all the files to commit and save changes
+       $git commmit -m "Give your message here" 
+       $git restore --staged names.txt  -  unstage the staged files
+       $git log           -  record of all commit
+       
