@@ -15,4 +15,8 @@
        $git commmit -m "Give your message here" 
        $git restore --staged names.txt  -  unstage the staged files
        $git log           -  record of all commit
+       $git remote -v     -  Github link
+       $git tag           -  version number
+       $git log --pretty=oneline
+       $git log --online --decorate --graph --all
        
