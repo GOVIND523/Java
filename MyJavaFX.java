@@ -6,18 +6,21 @@ import javafx.stage.Stage;
 public class MyJavaFX extends Application
 {
  //@Override//
- public void start(Stage primaryStage)
+ public void start( Stage primaryStage )
  {
-  Scene scene = new Scene(new Button("OK") , 500 , 500);
-  primaryStage.setTitle("MyJavaFX");
-  primaryStage.setScene(scene);
+  Scene scene = new Scene(new Button(" OK ") , 500 , 500);
+  primaryStage.setTitle(" MyJavaFX ");
+  primaryStage.setScene( scene );
   primaryStage.show();
 
+/*
   Stage stage = new Stage();
-  stage.setTitle("Second Stage");
-  stage.setScene(new Scene(new Button("New Stage"), 500 , 500));
-  stage.setResizable(false);
+  stage.setTitle(" Second Stage ");
+  stage.setScene(new Scene(new Button(" New Stage "), 500 , 500));
+  stage.setResizable( false );
   stage.show();
+*/
+
  }
 }
 
