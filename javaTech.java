@@ -63,6 +63,6 @@ class helloUniverse
 {
           public static void main( String args[] )          // main method
           {
-                    System.out.print( "Hello Universe" );   // printing to output
+                    System.out.print( "Hello Universe" );   // printing to the output screen 
           }
 }
