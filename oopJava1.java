@@ -24,7 +24,7 @@ $ Code depicting class and objects
 
 */
 
-class bicycle
+class Bicycle
 {
    int cadenece = 0;
    int speed = 0;
@@ -32,7 +32,7 @@ class bicycle
 
    void changeCadence( int newValue )
    {
-      cadenece = neValue;
+      cadenece = newValue;
    } 
 
    void changeGear( int newValue )
