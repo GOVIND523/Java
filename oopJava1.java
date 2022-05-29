@@ -52,7 +52,7 @@ class Bicycle
 
    void printStates()
    {
-      System.out.print("Cadence : " + cadenece + "Gear : " + gear + "Speed : " + speed );
+      System.out.println("Cadence : " + cadenece + " Gear : " + gear + " Speed : " + speed );
    }
 }
 
