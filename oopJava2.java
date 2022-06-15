@@ -5,7 +5,7 @@ $ Inheritance
           # Object Oriented Programming allows to inherit commonly used state and 
              behaviour from other classes.
 
-          # Keyword extends is used to inherit the class properties.
+          # Keyword "extends" is used to inherit the class properties.
 
 */
 
