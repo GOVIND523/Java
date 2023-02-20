@@ -1,3 +1,3 @@
 # Java
 
-This is the beginning of a great journey 
+Getting familiar with Java not the island but the programming language.
